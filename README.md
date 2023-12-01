@@ -47,7 +47,7 @@ Utilize QSE (Quality Shapes Extractor) to extract SHACL shapes from your dataset
 [QSE](https://github.com/dkw-aau/qse) GitHub repository contains the codebase and instructions to extract SHACL shapes
 from a given dataset.
 
-You can download the SHACL shapes for all of the above datasets using this link: [S3PG-SHACL-SHAPES](https://bitbucket.org/kashifrabbani/s3pg-shacl)
+You can download the SHACL shapes for all of the above datasets using this link: [S3PG-SHACL-SHAPES](https://bitbucket.org/kashifrabbani/s3pg-shacl/src/master/)
 
 
 ## 3. Transforming KGs to PGs using S3PG
