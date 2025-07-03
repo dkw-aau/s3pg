@@ -1,7 +1,10 @@
+
 # S3PG - Reproducibility Instructions
 Standardized SHACL Shapes-based PG transformation (S3PG)
 
-**Paper Title:** Lossless Transformations of Knowledge Graphs to Property Graphs using Standardized Schemas
+**Paper Title:** Transforming RDF Graphs to Property Graphs using Standardized Schemas
+
+** Paper Published Link ACM ** [https://dl.acm.org/doi/10.1145/3698817](https://dl.acm.org/doi/10.1145/3698817)
 
 **Status:** Under Review
 
