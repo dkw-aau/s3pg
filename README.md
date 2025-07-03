@@ -506,6 +506,9 @@ Queries are available in the [resources](https://github.com/dkw-aau/KG2PG/tree/m
 
 Once you have loaded PG into Neo4j. Next step is to run queries, use the benchmark() method in the Main file to run the queries.
 
+## 6. Generating Charts and Table
+
+You can use the scripts in [this](https://github.com/dkw-aau/s3pg/tree/main/scripts-to-generate-images-and-compute-stats) folder to generate charts and tables.
 
 
 ### License
