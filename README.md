@@ -4,9 +4,9 @@ Standardized SHACL Shapes-based PG transformation (S3PG)
 
 **Paper Title:** Transforming RDF Graphs to Property Graphs using Standardized Schemas
 
-** Paper Published Link ACM ** [https://dl.acm.org/doi/10.1145/3698817](https://dl.acm.org/doi/10.1145/3698817)
+**Paper Published Link ACM** [https://dl.acm.org/doi/10.1145/3698817](https://dl.acm.org/doi/10.1145/3698817)
 
-**Status:** Under Review
+**Status:** Published in ACM SIGMOD-2025
 
 ## 1.  Getting the code
 
